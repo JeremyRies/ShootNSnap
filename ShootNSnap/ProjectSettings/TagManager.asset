@@ -13,11 +13,11 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Rotation
+  - Front
+  - Back
+  - Obstacle
+  - Enemy
   - 
   - 
   - 
